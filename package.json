@@ -1,0 +1,21 @@
+{
+  "name": "babel-helper-kdu-jsx",
+  "version": "1.0.0",
+  "description": "Babel helper for Kdu jsx.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khanhduy1407/babel-helper-kdu-jsx.git"
+  },
+  "keywords": [
+    "babel",
+    "kdu",
+    "jsx"
+  ],
+  "author": "NKDuy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khanhduy1407/babel-helper-kdu-jsx/issues"
+  },
+  "homepage": "https://github.com/khanhduy1407/babel-helper-kdu-jsx"
+}
